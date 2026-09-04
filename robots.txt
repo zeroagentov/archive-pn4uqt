@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zeroagentov.github.io/archive-pn4uqt/sitemap.xml
